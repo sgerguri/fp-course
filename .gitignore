@@ -17,6 +17,7 @@
 
 # Intellij IDEA
 /.idea
+*.iml
 
 # darcs
 /_darcs
