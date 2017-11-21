@@ -1,23 +1,14 @@
-# Functional Programming Course
+# Solutions to Functional Programming Course
 
-![Data61](http://i.imgur.com/0h9dFhl.png)
+This is a fork of Tony Morris' Haskell/FP course, containing solutions to the exercises. Following is the rest of the original README. Everything except for (some of) the function definitions in `src/Course/*.hs` and this README is the unmodified original (read on for links).
+
+You can find the original repository at https://github.com/data61/fp-course. Model solutions to the exercises can be found at https://github.com/tonymorris/fp-course.
+
+The rest of this README corresponds to (a part of) the unmodified original README, as I found it convenient to keep around whilst working on the exercises.
 
 ### Written by Tony Morris & Mark Hibberd for Data61 (formerly NICTA)
 
 ### With contributions from individuals (thanks!)
-
-#### Special note 1
-
-If you have arrived here by https://github.com/data61/fp-course and you are
-looking for the *answers* (not the exercises), please go to https://github.com/tonymorris/fp-course
-
-#### Special note 2
-
-As of February 2017, this repository is taking the place of the repository hosted at
-https://github.com/NICTA/course which is deprecated. 
-
-Data61 replaces what was NICTA since July 2016. The new repository is located at
-https://github.com/data61/fp-course.
 
 #### Introduction
 
