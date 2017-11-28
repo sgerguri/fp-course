@@ -1,6 +1,10 @@
 # Solutions to Functional Programming Course
 
-This is a fork of Tony Morris' Haskell/FP course, containing solutions to the exercises. Following is the rest of the original README. Everything except for (some of) the function definitions in `src/Course/*.hs` and this README is the unmodified original (read on for links).
+This is a fork of Tony Morris' Haskell/FP course, containing solutions to the exercises. I tackled the exercises without making extensive use of any imported library functions,
+relying usually only on the functions that I have defined in previous chapters - as such, the code may be at times non-idiomatic, but still FP. I am basically learning
+Haskell by just doing these exercises - so do not take the solutions as the best canonical version of writing idiomatic Haskell.
+
+Everything except for (some of) the function definitions in `src/Course/*.hs` and this README is the unmodified original (read on for links).
 
 You can find the original repository at https://github.com/data61/fp-course. Model solutions to the exercises can be found at https://github.com/tonymorris/fp-course.
 
